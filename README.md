@@ -1,5 +1,5 @@
 # Analise-De-Ordenadores
-Plotando gráfico a partir de ordenadores.
+Plotando gráfico de ordenadores (SelectionSort, insertionSort, mergeSort, quickSort e bubbleSort).
 
 Dados adquiridos a partir da execução do código presente em $Algoritmo$. 
 
